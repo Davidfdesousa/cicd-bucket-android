@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Design tokens v1.0.0 — gerado automaticamente por cicd-create-tokens. Não edite à mão. -->
+<resources>
+    <color name="color_brand_primary">#6C5CE7</color>
+    <color name="color_brand_secondary">#00B894</color>
+    <color name="color_accent_highlight">#FD79A8</color>
+    <color name="color_feedback_success">#2ECC71</color>
+    <color name="color_feedback_warning">#F39C12</color>
+    <color name="color_feedback_danger">#E74C3C</color>
+    <color name="color_feedback_info">#3498DB</color>
+    <color name="color_neutral_0">#FFFFFF</color>
+    <color name="color_neutral_100">#F5F6FA</color>
+    <color name="color_neutral_900">#1E272E</color>
+</resources>
